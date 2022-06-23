@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ReeceAP
-- 👀 I’m interested in lots of stuff
-- 🌱 I’m currently learning lots of stuff
-- 💞️ I’m looking to collaborate on not much :(
+i just put stuff here for fun
 
 <!---
 ReeceAP/ReeceAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
